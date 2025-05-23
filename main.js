@@ -1,1 +1,1 @@
-window.location.href="https://chickenman.glitch.me/"
+window.location.href="https://poki.com/"
