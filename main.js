@@ -1,1 +1,1 @@
-window.location.href="https://poki.com/"
+window.location.href="https://google.com/"
